@@ -1,0 +1,15 @@
+div{
+    border-top: 1px solid white;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    color: rgb(0, 225, 255);
+    
+}
+span{
+    text-align: center;
+    background-color: rgb(255, 1, 1);
+    border-left: 1px solid white; 
+}
+.bigger{
+    height: 70px;
+}

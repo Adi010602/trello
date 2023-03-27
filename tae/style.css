@@ -1,0 +1,25 @@
+.container{
+    border-top: 5px solid white;
+}
+div{
+
+    text-align: center;
+}
+.primary{
+    background-color: rgb(18, 161, 99);
+}
+.primary2{
+    background-color: rgb(246, 107, 107);
+}
+.primary3{
+    background-color: rgb(255, 213, 0);
+}
+.primary4{
+    background-color: rgb(168, 49, 132);
+}
+.primary5{
+    background-color: rgb(85, 49, 168);
+}
+.size{
+    height:24px ;
+}

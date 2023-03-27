@@ -1,0 +1,169 @@
+*{
+    font-family: 'poppins', sans-serif;
+ 
+}
+.header{
+    background-color: #4C1F59;
+    color: white;
+   
+}
+.img-container .textbox{
+   
+    font-size: 88px;
+    top: 50%;
+    left: 40%;
+    transform: translate(-30%, -50%);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    
+}
+.img-container .subtext{
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.img-container .subbutton{
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    color: rgb(61, 61, 61);
+    font-weight: 200;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    height: 57px;
+    width: 163px;
+    line-height: 3.5em;
+    cursor: pointer;
+    
+}
+.img-container .subbutton a{
+    text-decoration: none;
+    color: rgb(72, 72, 72);
+}
+
+/* bestseller */
+.bestsellers{
+    font-weight: 700;
+}
+
+
+/* home decor items */
+.img-container2 .textbox{
+   
+    font-size: 88px;
+    top: 190%;
+    left: 40%;
+    transform: translate(-30%, -50%);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    
+}
+.img-container2 .subtext{
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.img-container2 .subbutton{
+    top: 210%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    color: rgb(61, 61, 61);
+    font-weight: 200;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    height: 57px;
+    width: 163px;
+    line-height: 3.5em;
+    cursor: pointer;
+    
+}
+.img-container2 .subbutton a{
+    text-decoration: none;
+    color: rgb(72, 72, 72);
+}
+
+.image{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+.learn{
+    background-color: #4c1f59;
+    
+    font-weight: 200;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    height: 57px;
+    width: 163px;
+    line-height: 3.5em;
+    cursor: pointer;
+}
+.learn a{
+    color: rgb(255, 255, 255);
+}
+
+.signup .textbox{
+    top: 380%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: 500;
+    font-size: 64px;
+}
+
+
+.signup .subtext{
+    top: 390%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.signup .subbutton{
+    top: 400%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    color: rgb(61, 61, 61);
+    font-weight: 200;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    height: 57px;
+    width: 163px;
+    line-height: 3.5em;
+    cursor: pointer;
+    
+}
+.signup .form-control{
+    width: 387px;
+}
+.follow .col{
+    float: left;
+   margin-right: -10px;
+}
+
+.footer{
+    height: 272px;
+    background-color: #F1F1F1;
+}
+
+.nav-header{
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+}

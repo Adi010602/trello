@@ -1,0 +1,23 @@
+
+
+.container{
+    margin-top: 15px;
+}
+.col-6,.col-3{
+    border: 0.2px solid;
+    border-color: rgb(0, 0, 0);
+    justify-content: center;
+}
+.size{
+    height: 4em;
+    border: 0.2px solid;
+    border-color: rgb(0, 0, 0);
+    justify-content: center;
+}
+.border1{
+    border: 0.2px solid;
+    border-color: rgb(0, 0, 0);
+    justify-content: center;
+    height: 2em;
+}
+
