@@ -1,0 +1,10 @@
+@media screen and (max-width<= 768px) {
+    .col-md-4{
+        
+        width:30% ;
+        height: ;
+    }
+    .col-md-8{
+        width: 70%;
+    }
+}
